@@ -295,6 +295,5 @@ Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus
 
 **WaveUp Space** — *Rejoins le Mouvement* 🌊
 
-Fait avec ❤️ à Khouribga, Maroc · 2026
-
+Fait avec ❤️ à Khouribga, Maroc · 2025-2026
 </div>
