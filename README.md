@@ -200,12 +200,26 @@ Le projet WaveUp Space a été structuré selon la méthodologie **Business Mode
 
 ---
 
+---
+
 ## 📸 Screenshots du projet
 
-### 📋 Formulaire d'enquête Google Forms
-> Formulaire diffusé auprès des étudiants et jeunes de Khouribga
+### 📊 Analyse des résultats
+> Visualisation des données récoltées montrant un fort besoin d'espaces de loisirs à Khouribga.
 
-![Formulaire Google Forms](screenshots/formulaire.png)
+![Résultats de l'enquête](2.png)
+
+### 📋 Structure du questionnaire
+> Aperçu du formulaire Google Forms utilisé pour l'enquête terrain.
+
+![Aperçu du formulaire](3.png)
+
+### 📂 Suivi des réponses
+> Extraction des données brutes via Google Sheets pour l'analyse statistique.
+
+![Tableau des réponses](1.png)
+
+---
 
 ## 🎤 Présentation officielle
 
@@ -251,7 +265,7 @@ La présentation couvre :
 |-----|------|--------|
 | **EL FERROUNI Zakaria** | Porteur de projet / Développeur | [@elferrouni-zakaria](https://github.com/elferrouni-zakaria) |
 | **EL GADIR Abdelhakim** | Porteur de projet / Développeur | [@elgadir-abdelhakim](https://github.com/elgadir-abdelhakim) |
-| **BAHSSIN Abderrahim** | Porteur de projet / Développeur | [@elferrouni-zakaria](https://github.com/) |
+| **BAHSSINE Abderrahim** | Porteur de projet / Développeur | [@bahssine-abderrahim](https://github.com/) |
 
 </div>
 
